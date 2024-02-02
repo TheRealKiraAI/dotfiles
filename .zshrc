@@ -10,6 +10,8 @@ echo -e "Welcome, ${BBLUE}*${IGREEN}Wandering Crow${BBLUE}*"
 alias g="~/Documents/GitHub/"
 alias gs="git status"
 alias gb="git branch"
+alias c="cursor"
+alias code="code"
 
 # zsh fish things
 setopt auto_cd
